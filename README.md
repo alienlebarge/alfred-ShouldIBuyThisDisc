@@ -16,6 +16,7 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 - [cede.ch](http://www.cede.ch)
 - [amazon.com](http://www.amazon.com)
 - [discogs.com](http://www.discogs.com)
+- [Ninja Tune](http://www.ninjatune.net)
 
 ## Install
 
