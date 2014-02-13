@@ -14,3 +14,11 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 - [decks.de](http://www.decks.de)
 - [exlibris.ch](http://www.exlibris.ch)
 - [cede.ch](http://www.cede.ch)
+
+## Install
+
+- You will need [Alfred app](http://www.alfredapp.com/)
+- [Download the workflow](https://github.com/alienlebarge/alfred-ShouldIBuyThisDisc/archive/master.zip)
+- Unzip it
+- Double click on `Should I buy this disc?.alfredworkflow`
+- If Alfred app is running, it should import the workflow.
