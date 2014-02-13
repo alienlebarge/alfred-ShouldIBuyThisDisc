@@ -10,12 +10,12 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 
 ## Search
 
-- [bleep.com](http://www.bleep.com)
-- [decks.de](http://www.decks.de)
-- [exlibris.ch](http://www.exlibris.ch)
-- [cede.ch](http://www.cede.ch)
-- [amazon.com](http://www.amazon.com)
-- [discogs.com](http://www.discogs.com)
+- [Amazon](http://www.amazon.com)
+- [Bleep](http://www.bleep.com)
+- [CeDe.ch](http://www.cede.ch)
+- [Decks](http://www.decks.de)
+- [Discogs](http://www.discogs.com)
+- [Ex-Libris](http://www.exlibris.ch)
 - [Ninja Tune](http://www.ninjatune.net)
 
 ## Install
