@@ -22,3 +22,7 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 - Unzip it
 - Double click on `Should I buy this disc?.alfredworkflow`
 - If Alfred app is running, it should import the workflow.
+
+## How to use
+
+Just type `music` followed by your query and here you go !
