@@ -14,6 +14,7 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 - [decks.de](http://www.decks.de)
 - [exlibris.ch](http://www.exlibris.ch)
 - [cede.ch](http://www.cede.ch)
+- [amazon.com](http://www.amazon.com)
 
 ## Install
 
