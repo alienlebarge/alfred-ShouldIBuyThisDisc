@@ -25,4 +25,4 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 
 ## How to use
 
-Just type `music` followed by your query and here you go !
+Just type `music` followed by your query and [here you go](http://media3.giphy.com/media/6nBKVwPAF0rIs/giphy.gif) !
