@@ -20,11 +20,11 @@ Just type `music` followed by your query and Alfred will open browser windows wi
 
 ## Install
 
-- You will need [Alfred app](http://www.alfredapp.com/)
-- [Download the workflow](https://github.com/alienlebarge/alfred-ShouldIBuyThisDisc/archive/master.zip)
-- Unzip it
-- Double click on `Should I buy this disc?.alfredworkflow`
-- If Alfred app is running, it should import the workflow.
+1. You will need [Alfred app](http://www.alfredapp.com/)
+1. [Download the workflow](https://github.com/alienlebarge/alfred-ShouldIBuyThisDisc/archive/master.zip)
+1. Unzip it
+1. Double click on `Should I buy this disc?.alfredworkflow`
+1. If Alfred app is running, it should import the workflow.
 
 ## How to use
 
